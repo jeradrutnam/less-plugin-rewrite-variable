@@ -6,7 +6,7 @@ Less plugin for rewriting variable value
 lessc usage
 -----------
 
-Install with npm
+Install with [npm](https://www.npmjs.com/package/less-plugin-rewrite-variable)
 
 ```bash
 npm install -g less-plugin-rewrite-variable

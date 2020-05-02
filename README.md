@@ -31,3 +31,11 @@ var RewriteVariablePlugin = require("less-plugin-rewrite-variable"),
 less.render(css, options)
     .then(...);
 ```
+
+## Browser usage
+
+Browser usage is not supported at this time.
+
+## License
+
+Licenses this source under MIT ([LICENSE](LICENSE)), You may not use this file except in compliance with the License.

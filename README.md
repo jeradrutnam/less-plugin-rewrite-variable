@@ -1,3 +1,5 @@
+[![NPM version](https://badge.fury.io/js/less-plugin-rewrite-variable.svg)](http://badge.fury.io/js/less-plugin-rewrite-variable) [![Dependencies](https://david-dm.org/less/less-plugin-rewrite-variable.svg)](https://david-dm.org/less/less-plugin-rewrite-variable)
+
 less-plugin-rewrite-variable
 ==========================
 
